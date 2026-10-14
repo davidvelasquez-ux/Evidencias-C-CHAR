@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Sesion01\Sesion01\Reto\bin\Debug\Reto.exe.config
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Sesion01\Sesion01\Reto\bin\Debug\Reto.exe
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Sesion01\Sesion01\Reto\bin\Debug\Reto.pdb
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Sesion01\Sesion01\Reto\obj\Debug\Reto.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Sesion01\Sesion01\Reto\obj\Debug\Reto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Sesion01\Sesion01\Reto\obj\Debug\Reto.exe
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Sesion01\Sesion01\Reto\obj\Debug\Reto.pdb
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Actividad_1_David Velasquez\Sesion1\Reto\bin\Debug\Reto.exe.config
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Actividad_1_David Velasquez\Sesion1\Reto\bin\Debug\Reto.exe
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Actividad_1_David Velasquez\Sesion1\Reto\bin\Debug\Reto.pdb
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Actividad_1_David Velasquez\Sesion1\Reto\obj\Debug\Reto.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Actividad_1_David Velasquez\Sesion1\Reto\obj\Debug\Reto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Actividad_1_David Velasquez\Sesion1\Reto\obj\Debug\Reto.exe
+C:\Users\User\Desktop\4_Cuarto Trimestre ADSO\C-CHAR\Actividad_1_David Velasquez\Sesion1\Reto\obj\Debug\Reto.pdb
