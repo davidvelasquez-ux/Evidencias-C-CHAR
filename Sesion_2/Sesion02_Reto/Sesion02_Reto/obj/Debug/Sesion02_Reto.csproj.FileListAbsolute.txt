@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Sesion02_Reto\Sesion02_Reto\obj\Debug\Sesion02_Reto.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sesion02_Reto\Sesion02_Reto\obj\Debug\Sesion02_Reto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sesion02_Reto\Sesion02_Reto\bin\Debug\Sesion02_Reto.exe.config
+C:\Users\User\Desktop\Sesion02_Reto\Sesion02_Reto\bin\Debug\Sesion02_Reto.exe
+C:\Users\User\Desktop\Sesion02_Reto\Sesion02_Reto\bin\Debug\Sesion02_Reto.pdb
+C:\Users\User\Desktop\Sesion02_Reto\Sesion02_Reto\obj\Debug\Sesion02_Reto.exe
+C:\Users\User\Desktop\Sesion02_Reto\Sesion02_Reto\obj\Debug\Sesion02_Reto.pdb
