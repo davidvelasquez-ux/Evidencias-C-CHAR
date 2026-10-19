@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Sesion02_Tarea\Sesion02_Tarea\bin\Debug\Sesion02_Tarea.exe.config
+C:\Users\User\Desktop\Sesion02_Tarea\Sesion02_Tarea\bin\Debug\Sesion02_Tarea.exe
+C:\Users\User\Desktop\Sesion02_Tarea\Sesion02_Tarea\bin\Debug\Sesion02_Tarea.pdb
+C:\Users\User\Desktop\Sesion02_Tarea\Sesion02_Tarea\obj\Debug\Sesion02_Tarea.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sesion02_Tarea\Sesion02_Tarea\obj\Debug\Sesion02_Tarea.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sesion02_Tarea\Sesion02_Tarea\obj\Debug\Sesion02_Tarea.exe
+C:\Users\User\Desktop\Sesion02_Tarea\Sesion02_Tarea\obj\Debug\Sesion02_Tarea.pdb
