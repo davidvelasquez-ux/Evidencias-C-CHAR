@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\bin\Debug\net10.0\Sesion_03.exe
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\bin\Debug\net10.0\Sesion_03.deps.json
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\bin\Debug\net10.0\Sesion_03.runtimeconfig.json
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\bin\Debug\net10.0\Sesion_03.dll
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\bin\Debug\net10.0\Sesion_03.pdb
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\obj\Debug\net10.0\Sesion_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\obj\Debug\net10.0\Sesion_03.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\obj\Debug\net10.0\Sesion_03.AssemblyInfo.cs
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\obj\Debug\net10.0\Sesion_03.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\obj\Debug\net10.0\Sesion_03.dll
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\obj\Debug\net10.0\refint\Sesion_03.dll
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\obj\Debug\net10.0\Sesion_03.pdb
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\obj\Debug\net10.0\Sesion_03.genruntimeconfig.cache
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\obj\Debug\net10.0\ref\Sesion_03.dll
+C:\Users\User\Desktop\Sesion_03_Terea\Sesion_03\obj\Debug\net10.0\Sesion_03.csproj.Up2Date
