@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\bin\Debug\net10.0\Sesion_04_Reto.exe
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\bin\Debug\net10.0\Sesion_04_Reto.deps.json
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\bin\Debug\net10.0\Sesion_04_Reto.runtimeconfig.json
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\bin\Debug\net10.0\Sesion_04_Reto.dll
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\bin\Debug\net10.0\Sesion_04_Reto.pdb
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\obj\Debug\net10.0\Sesion_04_Reto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\obj\Debug\net10.0\Sesion_04_Reto.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\obj\Debug\net10.0\Sesion_04_Reto.AssemblyInfo.cs
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\obj\Debug\net10.0\Sesion_04_Reto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\obj\Debug\net10.0\Sesion_04_Reto.dll
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\obj\Debug\net10.0\refint\Sesion_04_Reto.dll
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\obj\Debug\net10.0\Sesion_04_Reto.pdb
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\obj\Debug\net10.0\Sesion_04_Reto.genruntimeconfig.cache
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\obj\Debug\net10.0\ref\Sesion_04_Reto.dll
+C:\Users\User\Desktop\Sesion_04_Reto\Sesion_04_Reto\obj\Debug\net10.0\Sesion_0.A969C920.Up2Date
