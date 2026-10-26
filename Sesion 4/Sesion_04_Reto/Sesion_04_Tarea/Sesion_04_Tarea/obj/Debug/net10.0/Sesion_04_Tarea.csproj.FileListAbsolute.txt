@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\bin\Debug\net10.0\Sesion_04_Tarea.exe
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\bin\Debug\net10.0\Sesion_04_Tarea.deps.json
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\bin\Debug\net10.0\Sesion_04_Tarea.runtimeconfig.json
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\bin\Debug\net10.0\Sesion_04_Tarea.dll
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\bin\Debug\net10.0\Sesion_04_Tarea.pdb
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\obj\Debug\net10.0\Sesion_04_Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\obj\Debug\net10.0\Sesion_04_Tarea.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\obj\Debug\net10.0\Sesion_04_Tarea.AssemblyInfo.cs
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\obj\Debug\net10.0\Sesion_04_Tarea.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\obj\Debug\net10.0\Sesion_04_Tarea.dll
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\obj\Debug\net10.0\refint\Sesion_04_Tarea.dll
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\obj\Debug\net10.0\Sesion_04_Tarea.pdb
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\obj\Debug\net10.0\Sesion_04_Tarea.genruntimeconfig.cache
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\obj\Debug\net10.0\ref\Sesion_04_Tarea.dll
+C:\Users\User\Desktop\Sesion_04_Tarea\Sesion_04_Tarea\obj\Debug\net10.0\Sesion_0.D85EF16A.Up2Date
